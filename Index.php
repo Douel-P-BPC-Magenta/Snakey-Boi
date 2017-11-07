@@ -47,19 +47,12 @@
 	
 	echo "<br><br>";
 	
-	$value= 1 ;	
-        $sum= 0 ;
-	
-	foreach($group as $key=>$value){
-  	   $sum += $value;
-	}
-	echo "I added another one,I'm now: $sum <br>";
-	
-$valu = 0;
-$sun = 0;
-foreach($group as $key=>$valu)
+
+$value = 1;
+$sum = 0;
+foreach($group as $key=>$value)
 {
-   $sun+= $valu;
+   $sum+= $value;
 }
 echo $sum;
 
