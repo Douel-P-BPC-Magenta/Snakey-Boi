@@ -47,13 +47,14 @@
 	echo "<br><br>";
 	
 	$value=1	
-        $sum = 0;
+        $sum = 0
 	foreach($group as $key=>$value)
 	{
   	 $sum+= $value;
-	echo "I added another one,I'm now:$sum <br>";
 	}
+	echo "I added another one,I'm now:$sum <br>";
+	
 	?>
 	</body>
-</html>
-1
+	</html>
+
