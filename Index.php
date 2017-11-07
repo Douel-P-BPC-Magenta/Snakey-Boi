@@ -47,6 +47,7 @@
 	
 	echo "<br><br>";
 	echo "I'm 0";
+	echo "<br><br>";
 $sum = 0;
 	while ($sum<100){
 		++$sum; 
