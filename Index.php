@@ -54,7 +54,7 @@ $sum = 0;
 	while ($sum<100);
 		echo "Ive added another one, i'm now: $sum <br>"
 		$sum += $value
-echo "Finished"
+	echo "Finished"
 
 	?>
 </body>
