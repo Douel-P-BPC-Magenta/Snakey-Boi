@@ -49,8 +49,9 @@
 	
 $sum = 0;
 	while "$sum<100"{
-		++$sum; }
+		++$sum; 
 		echo "Ive added another one, i'm now: $sum <br>";
+		}
 	echo "Finished";
 	?>
 </body>
