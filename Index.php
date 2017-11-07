@@ -49,10 +49,12 @@
 	
 	$value=1;	
         $sum=0;
+	
 	foreach($group as $key=>$value){
   	   $sum+= $value;
 	}
 	echo "I added another one,I'm now:$sum <br>";
+	
 	?>
 </body>
 </html>
