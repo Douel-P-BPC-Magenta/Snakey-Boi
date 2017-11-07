@@ -7,11 +7,11 @@
 	$fName=rand(1,6);
 	
 	
-	if ($Fname == "1") {
+	if ($fName == "1") {
 	echo "Almost Snake Eyes";
 	}
 	elseif
-	($fullname == "6") {
+	($fName == "6") {
 	echo "Winner";
 	}
 	else
