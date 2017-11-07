@@ -44,6 +44,14 @@
         echo "You rolled a 6";
         break;	
 	}
+		
+	
+for ($fName = 0; $x <= 100; $x++) {
+    echo "I added another one,I'm now: $fName <br>";
+}
+	
+		
+		
 	?>
 	</body>
 </html>
