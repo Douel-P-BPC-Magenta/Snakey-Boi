@@ -18,7 +18,7 @@
 	{
 	echo "Get good noob";
 	}
-	echo $fName;
+	echo "$fName";
 	?>
 	</body>
 </html>
