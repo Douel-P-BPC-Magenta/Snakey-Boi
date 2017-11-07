@@ -44,9 +44,10 @@
         echo "You rolled a 6";
         break;	
 	}
+	echo "<br><br>";
 		
 	
-    for ($Num = 0; $Num <= 100; $Num++) {
+    for ($Num = 0; $Num <= 100; $Num+1) {
     echo "I added another one,I'm now: $Num <br>";
     }
 	
