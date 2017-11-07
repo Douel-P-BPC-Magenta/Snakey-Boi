@@ -46,7 +46,7 @@
 	}
 		
 	
-    for ($Num = 0; $x <= 100; $x++) {
+    for ($Num = 0; $Num <= 100; $Num++) {
     echo "I added another one,I'm now: $Num <br>";
     }
 	
