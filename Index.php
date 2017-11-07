@@ -48,10 +48,10 @@
 	echo "<br><br>";
 	
 $sum = 0;
-	while "$sum<100"{
+	while ($sum<100){
 		++$sum; 
 		echo "Ive added another one, i'm now: $sum <br>";
-		}
+	}
 	echo "Finished";
 	?>
 </body>
