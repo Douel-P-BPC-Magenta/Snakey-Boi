@@ -46,8 +46,8 @@
 	}
 	echo "<br><br>";
 	
-	$value=1	
-        $sum = 0
+	$value=1;	
+        $sum=0;
 	foreach($group as $key=>$value)
 	{
   	 $sum+= $value;
