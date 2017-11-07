@@ -55,6 +55,15 @@
 	}
 	echo "I added another one,I'm now: $sum <br>";
 	
+$valu = 0;
+$sun = 0;
+foreach($group as $key=>$valu)
+{
+   $sun+= $valu;
+}
+echo $sum;
+
+
 	?>
 </body>
 </html>
