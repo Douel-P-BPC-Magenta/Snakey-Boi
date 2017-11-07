@@ -46,12 +46,9 @@
 	}
 	echo "<br><br>";
 		
-$Num=1
     for ($Num = 1; $Num<= 100; $Num++) {
     echo "I added another one,I'm now: $Num <br>";
     }
-	
-		
 		
 	?>
 	</body>
