@@ -50,11 +50,9 @@
 
 	$value = 1;
 	$sum = 0;
-	foreach($group as $key=>$value)
-	{
-	   $sum+= $value;
-	}
-	echo $sum;
+	while ($sum<100);
+		echo "Ive added another one, i'm now: $sum <br>"
+		$sum += $value
 
 
 	?>
