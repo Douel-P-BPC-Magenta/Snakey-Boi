@@ -46,9 +46,9 @@
 	}
 		
 	
-for ($fName = 0; $x <= 100; $x++) {
-    echo "I added another one,I'm now: $fName <br>";
-}
+    for ($Num = 0; $x <= 100; $x++) {
+    echo "I added another one,I'm now: $Num <br>";
+    }
 	
 		
 		
