@@ -45,10 +45,16 @@
         break;	
 	}
 	echo "<br><br>";
-		
-    for ($Num = 1; $Num<= 100; $Num++) {
-    echo "I added another one,I'm now: $Num <br>";
-    }
+	
+	$value=1	
+        $sum = 0;
+	foreach($group as $key=>$value)
+	{
+  	 $sum+= $value;
+	}
+	echo "I added another one,I'm now:$sum <br>";
+
+
 		
 	?>
 	</body>
