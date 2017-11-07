@@ -46,8 +46,8 @@
 	}
 	echo "<br><br>";
 	
-	echo "I'm 1"
-	$value=1	
+	echo "I'm 1";
+	$value=1;	
         $sum = 1;
 	foreach($group as $key=>$value)
 	{
