@@ -30,6 +30,7 @@
     case 6:
         echo "You rolled a 6";
         break;	
+	}
 	?>
 	</body>
 </html>
