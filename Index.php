@@ -44,16 +44,15 @@
         echo "You rolled a 6";
         break;	
 	}
+	
 	echo "<br><br>";
 	
 	$value=1;	
         $sum=0;
-	foreach($group as $key=>$value)
-	{
+	foreach($group as $key=>$value){
   	   $sum+= $value;
 	}
 	echo "I added another one,I'm now:$sum <br>";
-	
 	?>
 </body>
 </html>
