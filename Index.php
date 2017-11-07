@@ -18,6 +18,8 @@
 	{
 	echo "Get good noob";
 	}
+
+	echo "<br><br>";
 	echo "$fName";
 	?>
 	</body>
