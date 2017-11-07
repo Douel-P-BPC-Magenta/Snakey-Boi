@@ -46,8 +46,9 @@
 	}
 	echo "<br><br>";
 	
+	echo "I'm 1"
 	$value=1	
-        $sum = 0;
+        $sum = 1;
 	foreach($group as $key=>$value)
 	{
   	 $sum+= $value;
@@ -59,3 +60,4 @@
 	?>
 	</body>
 </html>
+1
