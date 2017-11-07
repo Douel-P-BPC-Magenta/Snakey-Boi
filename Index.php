@@ -6,7 +6,6 @@
 	<?php
 	$fName=rand(1,6);
 	
-	
 	if ($fName == "1") {
 	echo "Almost Snake Eyes";
 	}
@@ -21,28 +20,26 @@
 	echo "<br><br>";
 	echo "<br><br>";
 	echo "$fName";
-	
 		
 	switch ($fName) {
-    case 1:
+    	case 1:
         echo "You rolled a 1";
         break;
-    case 2:
+    	case 2:
         echo "You rolled a 2";
         break;
-    case 3:
+    	case 3:
         echo "You rolled a 3";
         break;	
-    case 4:
+   	case 4:
         echo "You rolled a 4";
         break;
-    case 5:
+   	case 5:
         echo "You rolled a 5";
         break;
-    case 6:
+    	case 6:
         echo "You rolled a 6";
         break;	
-		
-		?>
+	?>
 	</body>
 </html>
