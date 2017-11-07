@@ -51,9 +51,8 @@
 	foreach($group as $key=>$value)
 	{
   	 $sum+= $value;
-	}
 	echo "I added another one,I'm now:$sum <br>";
-	
+	}
 	?>
 	</body>
 </html>
